@@ -1,5 +1,4 @@
-x = 2
-print(x)
-#chnaged
 
 #aruna
+
+#priydarshana
