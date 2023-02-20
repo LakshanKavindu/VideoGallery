@@ -99,6 +99,12 @@ class Videos(Resource):
 
         return {"status":"video succesfully added"},200
 
+
+
+class Name(Resource):
+    def get(self):
+        return {"status":"ok"}
+
     
 
     
